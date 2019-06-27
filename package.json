@@ -1,0 +1,13 @@
+{
+  "name": "nginx-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client": "http-server -p9090 -o",
+    "server": "node index"
+  },
+  "keywords": [],
+  "author": "angelasubi",
+  "license": "ISC"
+}
